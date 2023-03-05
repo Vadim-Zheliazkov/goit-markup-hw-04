@@ -623,7 +623,7 @@ letter-spacing: 0.02em;        color: #FFFFFF;
     gap: 16px;     
 }
 
-.footer-list {
+.footer-list-item {
     display: flex;
     width: 40px;
     height: 40px;
